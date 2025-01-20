@@ -5392,3 +5392,904 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't
 2025-01-15 01:20:19,811 [INFO] Polling stopped
 2025-01-15 01:20:20,070 [INFO] Polling stopped for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
 2025-01-15 01:20:20,071 [INFO] Bot is turned off
+2025-01-15 04:55:18,775 [INFO] Bot launching...
+2025-01-15 04:55:18,776 [INFO] Bot initialization...
+2025-01-15 04:55:19,139 [INFO] Start polling
+2025-01-15 04:55:19,177 [INFO] Run polling for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 04:55:20,817 [INFO] Polling stopped
+2025-01-15 04:55:21,070 [INFO] Polling stopped for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 04:55:21,071 [INFO] Bot is turned off
+2025-01-15 05:03:39,420 [INFO] Bot launching...
+2025-01-15 05:03:39,421 [INFO] Bot initialization...
+2025-01-15 05:03:39,748 [INFO] Start polling
+2025-01-15 05:03:39,785 [INFO] Run polling for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 05:03:41,834 [INFO] Update id=566754598 is handled. Duration 171 ms by bot id=8142798990
+2025-01-15 05:03:49,299 [INFO] Update id=566754599 is handled. Duration 46 ms by bot id=8142798990
+2025-01-15 05:03:50,604 [INFO] Update id=566754600 is handled. Duration 62 ms by bot id=8142798990
+2025-01-15 05:03:51,413 [INFO] Update id=566754601 is handled. Duration 62 ms by bot id=8142798990
+2025-01-15 05:03:52,106 [INFO] Update id=566754602 is handled. Duration 62 ms by bot id=8142798990
+2025-01-15 05:03:52,815 [INFO] Update id=566754603 is handled. Duration 61 ms by bot id=8142798990
+2025-01-15 05:03:54,354 [INFO] Update id=566754604 is handled. Duration 62 ms by bot id=8142798990
+2025-01-15 05:03:55,160 [INFO] Update id=566754605 is handled. Duration 47 ms by bot id=8142798990
+2025-01-15 05:03:55,791 [INFO] Update id=566754606 is handled. Duration 62 ms by bot id=8142798990
+2025-01-15 05:03:56,565 [INFO] Update id=566754607 is handled. Duration 61 ms by bot id=8142798990
+2025-01-15 05:03:57,247 [INFO] Update id=566754608 is handled. Duration 93 ms by bot id=8142798990
+2025-01-15 05:04:00,030 [INFO] Update id=566754609 is handled. Duration 63 ms by bot id=8142798990
+2025-01-15 05:04:00,975 [INFO] Update id=566754610 is handled. Duration 77 ms by bot id=8142798990
+2025-01-15 05:04:03,107 [INFO] Polling stopped
+2025-01-15 05:04:03,366 [INFO] Polling stopped for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 05:04:03,367 [INFO] Bot is turned off
+2025-01-15 14:31:56,889 [INFO] Bot launching...
+2025-01-15 14:31:56,889 [INFO] Bot initialization...
+2025-01-15 14:31:57,235 [INFO] Start polling
+2025-01-15 14:31:57,269 [INFO] Run polling for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 14:33:43,494 [INFO] Polling stopped
+2025-01-15 14:33:43,756 [INFO] Polling stopped for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 14:33:43,756 [INFO] Bot is turned off
+2025-01-15 14:34:01,991 [INFO] Bot launching...
+2025-01-15 14:34:01,991 [INFO] Bot initialization...
+2025-01-15 14:34:02,348 [INFO] Start polling
+2025-01-15 14:34:02,394 [INFO] Run polling for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 14:34:11,028 [INFO] Update id=566754672 is handled. Duration 172 ms by bot id=8142798990
+2025-01-15 14:34:12,654 [INFO] Update id=566754673 is handled. Duration 94 ms by bot id=8142798990
+2025-01-15 14:34:13,865 [INFO] Update id=566754674 is handled. Duration 92 ms by bot id=8142798990
+2025-01-15 14:34:15,393 [INFO] Update id=566754675 is handled. Duration 79 ms by bot id=8142798990
+2025-01-15 14:34:16,405 [INFO] Update id=566754676 is handled. Duration 108 ms by bot id=8142798990
+2025-01-15 14:34:17,682 [INFO] Update id=566754677 is handled. Duration 125 ms by bot id=8142798990
+2025-01-15 14:34:25,874 [INFO] Update id=566754678 is handled. Duration 77 ms by bot id=8142798990
+2025-01-15 14:56:28,236 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:56:28,236 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8142798990)
+2025-01-15 14:56:33,398 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:56:33,398 [WARNING] Sleep for 1.200211 seconds and try again... (tryings = 1, bot id = 8142798990)
+2025-01-15 14:56:39,039 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:56:39,039 [WARNING] Sleep for 1.621630 seconds and try again... (tryings = 2, bot id = 8142798990)
+2025-01-15 14:56:45,441 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:56:45,441 [WARNING] Sleep for 1.908052 seconds and try again... (tryings = 3, bot id = 8142798990)
+2025-01-15 14:56:52,580 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:56:52,580 [WARNING] Sleep for 2.565742 seconds and try again... (tryings = 4, bot id = 8142798990)
+2025-01-15 14:57:01,213 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:01,213 [WARNING] Sleep for 3.480372 seconds and try again... (tryings = 5, bot id = 8142798990)
+2025-01-15 14:57:08,578 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:08,578 [WARNING] Sleep for 4.551635 seconds and try again... (tryings = 6, bot id = 8142798990)
+2025-01-15 14:57:18,212 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:18,212 [WARNING] Sleep for 4.934530 seconds and try again... (tryings = 7, bot id = 8142798990)
+2025-01-15 14:57:28,301 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:28,301 [WARNING] Sleep for 5.045137 seconds and try again... (tryings = 8, bot id = 8142798990)
+2025-01-15 14:57:38,538 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:38,538 [WARNING] Sleep for 5.001684 seconds and try again... (tryings = 9, bot id = 8142798990)
+2025-01-15 14:57:48,591 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:48,591 [WARNING] Sleep for 5.018896 seconds and try again... (tryings = 10, bot id = 8142798990)
+2025-01-15 14:57:58,796 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:57:58,796 [WARNING] Sleep for 5.134701 seconds and try again... (tryings = 11, bot id = 8142798990)
+2025-01-15 14:58:08,956 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:58:08,956 [WARNING] Sleep for 4.962213 seconds and try again... (tryings = 12, bot id = 8142798990)
+2025-01-15 14:58:18,928 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:58:18,928 [WARNING] Sleep for 5.123168 seconds and try again... (tryings = 13, bot id = 8142798990)
+2025-01-15 14:58:29,214 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:58:29,214 [WARNING] Sleep for 4.962282 seconds and try again... (tryings = 14, bot id = 8142798990)
+2025-01-15 14:58:39,166 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:58:39,166 [WARNING] Sleep for 4.905459 seconds and try again... (tryings = 15, bot id = 8142798990)
+2025-01-15 14:58:49,164 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:58:49,164 [WARNING] Sleep for 5.008197 seconds and try again... (tryings = 16, bot id = 8142798990)
+2025-01-15 14:58:59,321 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:58:59,321 [WARNING] Sleep for 4.753689 seconds and try again... (tryings = 17, bot id = 8142798990)
+2025-01-15 14:59:09,180 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:59:09,180 [WARNING] Sleep for 4.983696 seconds and try again... (tryings = 18, bot id = 8142798990)
+2025-01-15 14:59:19,192 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:59:19,192 [WARNING] Sleep for 5.305347 seconds and try again... (tryings = 19, bot id = 8142798990)
+2025-01-15 14:59:29,453 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:59:29,453 [WARNING] Sleep for 4.979922 seconds and try again... (tryings = 20, bot id = 8142798990)
+2025-01-15 14:59:39,673 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:59:39,673 [WARNING] Sleep for 5.147142 seconds and try again... (tryings = 21, bot id = 8142798990)
+2025-01-15 14:59:49,980 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 14:59:49,981 [WARNING] Sleep for 4.939139 seconds and try again... (tryings = 22, bot id = 8142798990)
+2025-01-15 15:00:00,017 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:00:00,017 [WARNING] Sleep for 5.064268 seconds and try again... (tryings = 23, bot id = 8142798990)
+2025-01-15 15:00:10,127 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:00:10,127 [WARNING] Sleep for 4.890829 seconds and try again... (tryings = 24, bot id = 8142798990)
+2025-01-15 15:00:20,134 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:00:20,134 [WARNING] Sleep for 4.945823 seconds and try again... (tryings = 25, bot id = 8142798990)
+2025-01-15 15:00:30,144 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:00:30,144 [WARNING] Sleep for 4.989332 seconds and try again... (tryings = 26, bot id = 8142798990)
+2025-01-15 15:00:40,172 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:00:40,172 [WARNING] Sleep for 4.924009 seconds and try again... (tryings = 27, bot id = 8142798990)
+2025-01-15 15:00:50,250 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:00:50,250 [WARNING] Sleep for 4.972190 seconds and try again... (tryings = 28, bot id = 8142798990)
+2025-01-15 15:01:00,286 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:01:00,286 [WARNING] Sleep for 5.100323 seconds and try again... (tryings = 29, bot id = 8142798990)
+2025-01-15 15:01:10,568 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:01:10,568 [WARNING] Sleep for 4.889616 seconds and try again... (tryings = 30, bot id = 8142798990)
+2025-01-15 15:01:20,478 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:01:20,478 [WARNING] Sleep for 5.004555 seconds and try again... (tryings = 31, bot id = 8142798990)
+2025-01-15 15:01:30,716 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:01:30,716 [WARNING] Sleep for 5.090693 seconds and try again... (tryings = 32, bot id = 8142798990)
+2025-01-15 15:01:40,928 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:01:40,928 [WARNING] Sleep for 4.928540 seconds and try again... (tryings = 33, bot id = 8142798990)
+2025-01-15 15:01:50,870 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:01:50,870 [WARNING] Sleep for 5.022041 seconds and try again... (tryings = 34, bot id = 8142798990)
+2025-01-15 15:02:01,313 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:02:01,314 [WARNING] Sleep for 4.894937 seconds and try again... (tryings = 35, bot id = 8142798990)
+2025-01-15 15:02:11,131 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:02:11,131 [WARNING] Sleep for 4.880684 seconds and try again... (tryings = 36, bot id = 8142798990)
+2025-01-15 15:02:21,201 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:02:21,202 [WARNING] Sleep for 5.034810 seconds and try again... (tryings = 37, bot id = 8142798990)
+2025-01-15 15:02:31,312 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:02:31,312 [WARNING] Sleep for 5.115427 seconds and try again... (tryings = 38, bot id = 8142798990)
+2025-01-15 15:02:41,651 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:02:41,651 [WARNING] Sleep for 5.100444 seconds and try again... (tryings = 39, bot id = 8142798990)
+2025-01-15 15:02:51,751 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:02:51,751 [WARNING] Sleep for 4.959310 seconds and try again... (tryings = 40, bot id = 8142798990)
+2025-01-15 15:03:01,767 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:03:01,767 [WARNING] Sleep for 4.971112 seconds and try again... (tryings = 41, bot id = 8142798990)
+2025-01-15 15:03:11,898 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:03:11,898 [WARNING] Sleep for 5.067721 seconds and try again... (tryings = 42, bot id = 8142798990)
+2025-01-15 15:03:22,105 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:03:22,105 [WARNING] Sleep for 5.007171 seconds and try again... (tryings = 43, bot id = 8142798990)
+2025-01-15 15:03:32,258 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:03:32,258 [WARNING] Sleep for 4.995763 seconds and try again... (tryings = 44, bot id = 8142798990)
+2025-01-15 15:03:42,238 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:03:42,238 [WARNING] Sleep for 5.139801 seconds and try again... (tryings = 45, bot id = 8142798990)
+2025-01-15 15:03:52,619 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:03:52,619 [WARNING] Sleep for 5.026965 seconds and try again... (tryings = 46, bot id = 8142798990)
+2025-01-15 15:04:02,761 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:04:02,761 [WARNING] Sleep for 5.079703 seconds and try again... (tryings = 47, bot id = 8142798990)
+2025-01-15 15:04:13,005 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:04:13,005 [WARNING] Sleep for 4.906057 seconds and try again... (tryings = 48, bot id = 8142798990)
+2025-01-15 15:04:22,949 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:04:22,950 [WARNING] Sleep for 4.970694 seconds and try again... (tryings = 49, bot id = 8142798990)
+2025-01-15 15:04:33,048 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:04:33,048 [WARNING] Sleep for 4.918525 seconds and try again... (tryings = 50, bot id = 8142798990)
+2025-01-15 15:04:43,055 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:04:43,055 [WARNING] Sleep for 4.850017 seconds and try again... (tryings = 51, bot id = 8142798990)
+2025-01-15 15:04:53,147 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:04:53,147 [WARNING] Sleep for 5.100837 seconds and try again... (tryings = 52, bot id = 8142798990)
+2025-01-15 15:05:03,424 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:05:03,424 [WARNING] Sleep for 5.110472 seconds and try again... (tryings = 53, bot id = 8142798990)
+2025-01-15 15:05:13,596 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:05:13,596 [WARNING] Sleep for 4.902741 seconds and try again... (tryings = 54, bot id = 8142798990)
+2025-01-15 15:05:23,722 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:05:23,722 [WARNING] Sleep for 5.191527 seconds and try again... (tryings = 55, bot id = 8142798990)
+2025-01-15 15:05:33,895 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:05:33,895 [WARNING] Sleep for 4.931342 seconds and try again... (tryings = 56, bot id = 8142798990)
+2025-01-15 15:05:44,082 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:05:44,082 [WARNING] Sleep for 5.084395 seconds and try again... (tryings = 57, bot id = 8142798990)
+2025-01-15 15:05:54,100 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:05:54,100 [WARNING] Sleep for 4.968213 seconds and try again... (tryings = 58, bot id = 8142798990)
+2025-01-15 15:06:04,975 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:06:04,975 [WARNING] Sleep for 5.029842 seconds and try again... (tryings = 59, bot id = 8142798990)
+2025-01-15 15:06:14,150 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:06:14,150 [WARNING] Sleep for 4.903155 seconds and try again... (tryings = 60, bot id = 8142798990)
+2025-01-15 15:06:23,597 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:06:23,612 [WARNING] Sleep for 4.978797 seconds and try again... (tryings = 61, bot id = 8142798990)
+2025-01-15 15:06:33,654 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:06:33,654 [WARNING] Sleep for 4.985069 seconds and try again... (tryings = 62, bot id = 8142798990)
+2025-01-15 15:06:44,298 [ERROR] Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-01-15 15:06:44,299 [WARNING] Sleep for 5.050613 seconds and try again... (tryings = 63, bot id = 8142798990)
+2025-01-15 15:06:45,816 [INFO] Polling stopped
+2025-01-15 15:06:46,085 [INFO] Polling stopped for bot @Serbian_Dictionary_bot id=8142798990 - 'Serbian Dictionary'
+2025-01-15 15:06:46,085 [INFO] Bot is turned off
+2025-01-16 00:29:33,940 [INFO] Bot launching...
+2025-01-16 00:29:33,943 [INFO] Bot initialization...
+2025-01-16 00:29:37,233 [INFO] Start polling
+2025-01-16 00:29:37,273 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 00:29:45,672 [INFO] Update id=508460013 is handled. Duration 156 ms by bot id=7254443093
+2025-01-16 00:29:49,997 [INFO] Update id=508460014 is handled. Duration 47 ms by bot id=7254443093
+2025-01-16 00:29:56,231 [INFO] Update id=508460015 is handled. Duration 61 ms by bot id=7254443093
+2025-01-16 00:30:04,099 [INFO] Update id=508460016 is handled. Duration 93 ms by bot id=7254443093
+2025-01-16 00:30:13,605 [INFO] Update id=508460017 is handled. Duration 61 ms by bot id=7254443093
+2025-01-16 00:30:17,472 [INFO] Update id=508460018 is handled. Duration 93 ms by bot id=7254443093
+2025-01-16 00:30:18,610 [INFO] Update id=508460019 is handled. Duration 78 ms by bot id=7254443093
+2025-01-16 00:30:22,429 [INFO] Update id=508460020 is handled. Duration 61 ms by bot id=7254443093
+2025-01-16 00:30:26,737 [INFO] Update id=508460021 is handled. Duration 78 ms by bot id=7254443093
+2025-01-16 00:30:28,527 [INFO] Update id=508460022 is handled. Duration 77 ms by bot id=7254443093
+2025-01-16 00:30:29,634 [INFO] Update id=508460023 is handled. Duration 93 ms by bot id=7254443093
+2025-01-16 00:30:34,715 [INFO] Update id=508460024 is handled. Duration 47 ms by bot id=7254443093
+2025-01-16 00:30:39,100 [INFO] Update id=508460025 is handled. Duration 139 ms by bot id=7254443093
+2025-01-16 00:30:40,927 [INFO] Update id=508460026 is handled. Duration 61 ms by bot id=7254443093
+2025-01-16 00:30:49,245 [INFO] Update id=508460027 is handled. Duration 63 ms by bot id=7254443093
+2025-01-16 00:30:50,917 [INFO] Update id=508460028 is handled. Duration 46 ms by bot id=7254443093
+2025-01-16 00:30:52,777 [INFO] Update id=508460029 is handled. Duration 61 ms by bot id=7254443093
+2025-01-16 00:30:54,391 [INFO] Update id=508460030 is handled. Duration 156 ms by bot id=7254443093
+2025-01-16 00:31:24,100 [INFO] Polling stopped
+2025-01-16 00:31:24,358 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 00:31:24,359 [INFO] Bot is turned off
+2025-01-16 20:10:42,561 [INFO] Bot launching...
+2025-01-16 20:10:42,563 [INFO] Bot initialization...
+2025-01-16 20:10:42,922 [INFO] Start polling
+2025-01-16 20:10:42,980 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:10:52,412 [INFO] Update id=508460031 is handled. Duration 157 ms by bot id=7254443093
+2025-01-16 20:10:56,866 [INFO] Update id=508460032 is handled. Duration 171 ms by bot id=7254443093
+2025-01-16 20:11:00,081 [INFO] Update id=508460033 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-16 20:11:00,081 [ERROR] Cause exception while process update id=508460033 by bot id=7254443093
+TypeError: Message.answer_photo() missing 1 required positional argument: 'photo'
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 159, in select_category
+    await callback.message.answer_photo()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Message.answer_photo() missing 1 required positional argument: 'photo'
+2025-01-16 20:14:37,070 [INFO] Polling stopped
+2025-01-16 20:14:37,333 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:14:37,334 [INFO] Bot is turned off
+2025-01-16 20:14:39,940 [INFO] Bot launching...
+2025-01-16 20:14:39,941 [INFO] Bot initialization...
+2025-01-16 20:14:40,300 [INFO] Start polling
+2025-01-16 20:14:40,338 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:14:42,213 [INFO] Update id=508460035 is handled. Duration 171 ms by bot id=7254443093
+2025-01-16 20:14:43,535 [INFO] Update id=508460036 is handled. Duration 0 ms by bot id=7254443093
+2025-01-16 20:14:50,981 [INFO] Polling stopped
+2025-01-16 20:14:51,249 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:14:51,250 [INFO] Bot is turned off
+2025-01-16 20:15:59,703 [INFO] Bot launching...
+2025-01-16 20:15:59,704 [INFO] Bot initialization...
+2025-01-16 20:16:00,043 [INFO] Start polling
+2025-01-16 20:16:00,117 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:16:03,741 [INFO] Update id=508460037 is handled. Duration 187 ms by bot id=7254443093
+2025-01-16 20:16:04,337 [INFO] Update id=508460038 is handled. Duration 14 ms by bot id=7254443093
+2025-01-16 20:52:12,394 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-01-16 20:52:12,394 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7254443093)
+2025-01-16 20:52:23,516 [INFO] Connection established (tryings = 1, bot id = 7254443093)
+2025-01-16 20:52:29,006 [INFO] Polling stopped
+2025-01-16 20:52:29,269 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:52:29,270 [INFO] Bot is turned off
+2025-01-16 20:55:39,181 [INFO] Bot launching...
+2025-01-16 20:55:39,182 [INFO] Bot initialization...
+2025-01-16 20:55:39,528 [INFO] Start polling
+2025-01-16 20:55:39,569 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:55:47,863 [INFO] Update id=508460039 is handled. Duration 171 ms by bot id=7254443093
+2025-01-16 20:55:51,041 [INFO] Update id=508460040 is handled. Duration 14 ms by bot id=7254443093
+2025-01-16 20:56:51,039 [INFO] Polling stopped
+2025-01-16 20:56:51,284 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:56:51,285 [INFO] Bot is turned off
+2025-01-16 20:57:15,962 [INFO] Bot launching...
+2025-01-16 20:57:15,963 [INFO] Bot initialization...
+2025-01-16 20:57:16,302 [INFO] Start polling
+2025-01-16 20:57:16,340 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:57:17,930 [INFO] Update id=508460041 is handled. Duration 422 ms by bot id=7254443093
+2025-01-16 20:57:18,711 [INFO] Update id=508460042 is handled. Duration 0 ms by bot id=7254443093
+2025-01-16 20:57:30,303 [INFO] Polling stopped
+2025-01-16 20:57:30,564 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:57:30,565 [INFO] Bot is turned off
+2025-01-16 20:57:32,947 [INFO] Bot launching...
+2025-01-16 20:57:32,948 [INFO] Bot initialization...
+2025-01-16 20:57:33,294 [INFO] Start polling
+2025-01-16 20:57:33,332 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:57:35,123 [INFO] Update id=508460043 is handled. Duration 170 ms by bot id=7254443093
+2025-01-16 20:57:35,768 [INFO] Update id=508460044 is handled. Duration 0 ms by bot id=7254443093
+2025-01-16 20:58:02,302 [INFO] Polling stopped
+2025-01-16 20:58:02,546 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:58:02,547 [INFO] Bot is turned off
+2025-01-16 20:58:05,048 [INFO] Bot launching...
+2025-01-16 20:58:05,049 [INFO] Bot initialization...
+2025-01-16 20:58:05,373 [INFO] Start polling
+2025-01-16 20:58:05,665 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:58:07,450 [INFO] Update id=508460045 is handled. Duration 250 ms by bot id=7254443093
+2025-01-16 20:58:08,246 [INFO] Update id=508460046 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-16 20:58:08,246 [ERROR] Cause exception while process update id=508460046 by bot id=7254443093
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 165, in select_category
+    await callback.message.answer_photo(photo=InputFile(image_path))
+                                              ^^^^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+2025-01-16 20:59:33,103 [INFO] Polling stopped
+2025-01-16 20:59:33,364 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:59:33,365 [INFO] Bot is turned off
+2025-01-16 20:59:35,561 [INFO] Bot launching...
+2025-01-16 20:59:35,562 [INFO] Bot initialization...
+2025-01-16 20:59:35,896 [INFO] Start polling
+2025-01-16 20:59:35,934 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 20:59:43,093 [INFO] Update id=508460047 is handled. Duration 264 ms by bot id=7254443093
+2025-01-16 20:59:43,993 [INFO] Update id=508460048 is not handled. Duration 45 ms by bot id=7254443093
+2025-01-16 20:59:43,993 [ERROR] Cause exception while process update id=508460048 by bot id=7254443093
+TelegramBadRequest: Telegram server says - Bad Request: invalid file HTTP URL specified: Wrong port number specified in the URL
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 165, in select_category
+    await callback.message.answer_photo(photo=image_path)
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\client\bot.py", line 494, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: invalid file HTTP URL specified: Wrong port number specified in the URL
+2025-01-16 21:01:03,183 [INFO] Polling stopped
+2025-01-16 21:01:03,453 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:01:03,454 [INFO] Bot is turned off
+2025-01-16 21:01:05,595 [INFO] Bot launching...
+2025-01-16 21:01:05,595 [INFO] Bot initialization...
+2025-01-16 21:01:06,194 [INFO] Start polling
+2025-01-16 21:01:06,249 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:01:09,681 [INFO] Update id=508460049 is handled. Duration 203 ms by bot id=7254443093
+2025-01-16 21:01:10,281 [INFO] Update id=508460050 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-16 21:01:10,282 [ERROR] Cause exception while process update id=508460050 by bot id=7254443093
+ValidationError: 2 validation errors for SendPhoto
+photo.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ges\\grammar\\biti.png'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.10/v/is_instance_of
+photo.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ges\\grammar\\biti.png'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 165, in select_category
+    await callback.message.answer_photo(photo=open(image_path, 'rb'))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\types\message.py", line 2246, in answer_photo
+    return SendPhoto(
+           ^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for SendPhoto
+photo.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...ges\\grammar\\biti.png'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.10/v/is_instance_of
+photo.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...ges\\grammar\\biti.png'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-16 21:02:24,023 [INFO] Polling stopped
+2025-01-16 21:02:24,274 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:02:24,275 [INFO] Bot is turned off
+2025-01-16 21:02:26,658 [INFO] Bot launching...
+2025-01-16 21:02:26,659 [INFO] Bot initialization...
+2025-01-16 21:02:26,988 [INFO] Start polling
+2025-01-16 21:02:27,041 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:02:29,158 [INFO] Update id=508460051 is handled. Duration 438 ms by bot id=7254443093
+2025-01-16 21:02:30,252 [INFO] Update id=508460052 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-16 21:02:30,252 [ERROR] Cause exception while process update id=508460052 by bot id=7254443093
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 165, in select_category
+    await callback.message.answer_photo(InputFile(image_path))
+                                        ^^^^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+2025-01-16 21:03:22,175 [INFO] Polling stopped
+2025-01-16 21:03:22,441 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:03:22,442 [INFO] Bot is turned off
+2025-01-16 21:03:24,902 [INFO] Bot launching...
+2025-01-16 21:03:24,902 [INFO] Bot initialization...
+2025-01-16 21:03:25,227 [INFO] Start polling
+2025-01-16 21:03:25,266 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:03:29,308 [INFO] Update id=508460053 is handled. Duration 546 ms by bot id=7254443093
+2025-01-16 21:03:30,705 [INFO] Update id=508460054 is handled. Duration 656 ms by bot id=7254443093
+2025-01-16 21:04:17,615 [INFO] Update id=508460055 is handled. Duration 93 ms by bot id=7254443093
+2025-01-16 21:05:29,239 [INFO] Polling stopped
+2025-01-16 21:05:29,487 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:05:29,488 [INFO] Bot is turned off
+2025-01-16 21:05:41,037 [INFO] Bot launching...
+2025-01-16 21:05:41,037 [INFO] Bot initialization...
+2025-01-16 21:05:41,384 [INFO] Start polling
+2025-01-16 21:05:41,423 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:05:46,731 [INFO] Update id=508460056 is handled. Duration 187 ms by bot id=7254443093
+2025-01-16 21:05:47,832 [INFO] Update id=508460057 is handled. Duration 204 ms by bot id=7254443093
+2025-01-16 21:16:13,465 [INFO] Polling stopped
+2025-01-16 21:16:13,739 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-16 21:16:13,740 [INFO] Bot is turned off
+2025-01-21 00:13:43,465 [INFO] Bot launching...
+2025-01-21 00:13:43,467 [INFO] Bot initialization...
+2025-01-21 00:13:43,824 [INFO] Start polling
+2025-01-21 00:13:43,864 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:13:58,405 [INFO] Update id=508460058 is handled. Duration 172 ms by bot id=7254443093
+2025-01-21 00:14:07,755 [INFO] Update id=508460059 is handled. Duration 62 ms by bot id=7254443093
+2025-01-21 00:17:48,333 [INFO] Polling stopped
+2025-01-21 00:17:48,598 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:17:48,599 [INFO] Bot is turned off
+2025-01-21 00:17:51,306 [INFO] Bot launching...
+2025-01-21 00:17:51,308 [INFO] Bot initialization...
+2025-01-21 00:17:51,639 [INFO] Start polling
+2025-01-21 00:17:51,683 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:17:56,712 [INFO] Update id=508460060 is handled. Duration 140 ms by bot id=7254443093
+2025-01-21 00:18:03,311 [INFO] Update id=508460061 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:18:03,311 [ERROR] Cause exception while process update id=508460061 by bot id=7254443093
+ValueError: <aiogram.utils.keyboard.InlineKeyboardBuilder object at 0x000002E1629A2CF0> should be type 'InlineKeyboardButton' not 'InlineKeyboardBuilder'
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 51, in cmd_start_test
+    keyboard = kb.get_categories_keyboard(categories)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\keyboards\keyboards.py", line 52, in get_categories_keyboard
+    keyboard.row(*[keyboard.button(text=category, callback_data=f"category_{category}") for category in row_buttons])
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\utils\keyboard.py", line 205, in row
+    self._validate_buttons(*buttons)
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\utils\keyboard.py", line 94, in _validate_buttons
+    return all(map(self._validate_button, buttons))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\utils\keyboard.py", line 82, in _validate_button
+    raise ValueError(
+ValueError: <aiogram.utils.keyboard.InlineKeyboardBuilder object at 0x000002E1629A2CF0> should be type 'InlineKeyboardButton' not 'InlineKeyboardBuilder'
+2025-01-21 00:20:51,973 [INFO] Polling stopped
+2025-01-21 00:20:52,240 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:20:52,241 [INFO] Bot is turned off
+2025-01-21 00:20:54,541 [INFO] Bot launching...
+2025-01-21 00:20:54,542 [INFO] Bot initialization...
+2025-01-21 00:20:54,866 [INFO] Start polling
+2025-01-21 00:20:54,903 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:20:59,819 [INFO] Update id=508460062 is handled. Duration 140 ms by bot id=7254443093
+2025-01-21 00:21:05,226 [INFO] Update id=508460063 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:21:17,716 [INFO] Update id=508460064 is handled. Duration 62 ms by bot id=7254443093
+2025-01-21 00:21:20,152 [INFO] Update id=508460065 is handled. Duration 78 ms by bot id=7254443093
+2025-01-21 00:21:21,601 [INFO] Update id=508460066 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:24:53,021 [INFO] Polling stopped
+2025-01-21 00:24:53,280 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:24:53,281 [INFO] Bot is turned off
+2025-01-21 00:24:55,769 [INFO] Bot launching...
+2025-01-21 00:24:55,769 [INFO] Bot initialization...
+2025-01-21 00:24:56,160 [INFO] Start polling
+2025-01-21 00:24:56,194 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:25:00,667 [INFO] Update id=508460067 is handled. Duration 139 ms by bot id=7254443093
+2025-01-21 00:25:03,886 [INFO] Update id=508460068 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:29:57,468 [INFO] Polling stopped
+2025-01-21 00:29:57,730 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:29:57,731 [INFO] Bot is turned off
+2025-01-21 00:30:00,375 [INFO] Bot launching...
+2025-01-21 00:30:00,376 [INFO] Bot initialization...
+2025-01-21 00:30:00,708 [INFO] Start polling
+2025-01-21 00:30:00,748 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:30:09,864 [INFO] Update id=508460069 is handled. Duration 342 ms by bot id=7254443093
+2025-01-21 00:30:13,276 [INFO] Update id=508460070 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:32:34,533 [INFO] Polling stopped
+2025-01-21 00:32:34,804 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:32:34,805 [INFO] Bot is turned off
+2025-01-21 00:32:37,165 [INFO] Bot launching...
+2025-01-21 00:32:37,166 [INFO] Bot initialization...
+2025-01-21 00:32:37,506 [INFO] Start polling
+2025-01-21 00:32:37,545 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:32:39,844 [INFO] Update id=508460071 is handled. Duration 172 ms by bot id=7254443093
+2025-01-21 00:32:42,989 [INFO] Update id=508460072 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:32:46,180 [INFO] Polling stopped
+2025-01-21 00:32:46,431 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:32:46,432 [INFO] Bot is turned off
+2025-01-21 00:34:54,224 [INFO] Bot launching...
+2025-01-21 00:34:54,224 [INFO] Bot initialization...
+2025-01-21 00:34:54,553 [INFO] Start polling
+2025-01-21 00:34:54,592 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:35:02,092 [INFO] Update id=508460073 is handled. Duration 157 ms by bot id=7254443093
+2025-01-21 00:35:04,003 [INFO] Update id=508460074 is not handled. Duration 0 ms by bot id=7254443093
+2025-01-21 00:35:04,003 [ERROR] Cause exception while process update id=508460074 by bot id=7254443093
+ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=<aiogram.utils.keyboard.I...t at 0x000001782B2C2D20>, input_type=InlineKeyboardBuilder]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+Traceback (most recent call last):
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\handlers\user_handlers.py", line 180, in process_pagination
+    await callback_query.message.edit_text("Выберите категорию:", reply_markup=keyboard)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\aiogram\types\message.py", line 3670, in edit_text
+    return EditMessageText(
+           ^^^^^^^^^^^^^^^^
+  File "D:\Programming\Python\BotMother\serbian_dictionary_tgbot\venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for EditMessageText
+reply_markup
+  Input should be a valid dictionary or instance of InlineKeyboardMarkup [type=model_type, input_value=<aiogram.utils.keyboard.I...t at 0x000001782B2C2D20>, input_type=InlineKeyboardBuilder]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+2025-01-21 00:35:35,116 [INFO] Polling stopped
+2025-01-21 00:35:35,370 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:35:35,371 [INFO] Bot is turned off
+2025-01-21 00:35:37,978 [INFO] Bot launching...
+2025-01-21 00:35:37,979 [INFO] Bot initialization...
+2025-01-21 00:35:38,320 [INFO] Start polling
+2025-01-21 00:35:38,359 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:35:39,783 [INFO] Update id=508460075 is handled. Duration 155 ms by bot id=7254443093
+2025-01-21 00:35:40,727 [INFO] Update id=508460076 is handled. Duration 172 ms by bot id=7254443093
+2025-01-21 00:35:42,406 [INFO] Update id=508460077 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:35:50,439 [INFO] Update id=508460078 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:35:54,435 [INFO] Update id=508460079 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:36:03,257 [INFO] Update id=508460080 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:36:05,002 [INFO] Update id=508460081 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:36:07,082 [INFO] Update id=508460082 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:36:09,147 [INFO] Update id=508460083 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:36:14,783 [INFO] Update id=508460084 is handled. Duration 108 ms by bot id=7254443093
+2025-01-21 00:36:18,966 [INFO] Update id=508460085 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:36:24,899 [INFO] Update id=508460086 is handled. Duration 125 ms by bot id=7254443093
+2025-01-21 00:36:38,141 [INFO] Update id=508460087 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:36:39,926 [INFO] Update id=508460088 is handled. Duration 77 ms by bot id=7254443093
+2025-01-21 00:36:42,836 [INFO] Update id=508460089 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:36:44,260 [INFO] Update id=508460090 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:36:45,953 [INFO] Update id=508460091 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:36:49,009 [INFO] Update id=508460092 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:36:56,534 [INFO] Update id=508460093 is handled. Duration 77 ms by bot id=7254443093
+2025-01-21 00:37:00,268 [INFO] Update id=508460094 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:37:04,821 [INFO] Update id=508460095 is handled. Duration 45 ms by bot id=7254443093
+2025-01-21 00:37:08,297 [INFO] Update id=508460096 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:37:09,799 [INFO] Update id=508460097 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:37:12,182 [INFO] Update id=508460098 is handled. Duration 110 ms by bot id=7254443093
+2025-01-21 00:37:16,374 [INFO] Update id=508460099 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:37:18,227 [INFO] Update id=508460100 is handled. Duration 94 ms by bot id=7254443093
+2025-01-21 00:37:22,397 [INFO] Update id=508460101 is handled. Duration 110 ms by bot id=7254443093
+2025-01-21 00:37:25,062 [INFO] Update id=508460102 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:37:28,620 [INFO] Update id=508460103 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:37:31,932 [INFO] Update id=508460104 is handled. Duration 125 ms by bot id=7254443093
+2025-01-21 00:37:33,577 [INFO] Update id=508460105 is handled. Duration 108 ms by bot id=7254443093
+2025-01-21 00:37:36,912 [INFO] Update id=508460106 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:37:39,816 [INFO] Update id=508460107 is handled. Duration 561 ms by bot id=7254443093
+2025-01-21 00:37:41,037 [INFO] Update id=508460108 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:37:44,611 [INFO] Update id=508460109 is handled. Duration 125 ms by bot id=7254443093
+2025-01-21 00:37:46,324 [INFO] Update id=508460110 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:37:47,819 [INFO] Update id=508460111 is handled. Duration 45 ms by bot id=7254443093
+2025-01-21 00:37:48,815 [INFO] Update id=508460112 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:37:52,885 [INFO] Update id=508460113 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:37:54,731 [INFO] Update id=508460114 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:37:59,260 [INFO] Update id=508460115 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:38:00,793 [INFO] Update id=508460116 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:38:02,331 [INFO] Update id=508460117 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:38:05,430 [INFO] Update id=508460118 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:38:07,353 [INFO] Update id=508460119 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:38:10,256 [INFO] Update id=508460120 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:38:16,381 [INFO] Update id=508460121 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:38:18,805 [INFO] Update id=508460122 is handled. Duration 110 ms by bot id=7254443093
+2025-01-21 00:38:20,963 [INFO] Update id=508460123 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:38:23,054 [INFO] Update id=508460124 is handled. Duration 110 ms by bot id=7254443093
+2025-01-21 00:42:12,404 [INFO] Polling stopped
+2025-01-21 00:42:12,666 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:42:12,667 [INFO] Bot is turned off
+2025-01-21 00:42:14,905 [INFO] Bot launching...
+2025-01-21 00:42:14,906 [INFO] Bot initialization...
+2025-01-21 00:42:15,239 [INFO] Start polling
+2025-01-21 00:42:15,276 [INFO] Run polling for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:42:16,114 [INFO] Update id=508460125 is handled. Duration 155 ms by bot id=7254443093
+2025-01-21 00:42:17,083 [INFO] Update id=508460126 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:42:19,828 [INFO] Update id=508460127 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:42:21,164 [INFO] Update id=508460128 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:42:22,025 [INFO] Update id=508460129 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:42:25,983 [INFO] Update id=508460130 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:42:28,071 [INFO] Update id=508460131 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:42:30,458 [INFO] Update id=508460132 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:42:32,117 [INFO] Update id=508460133 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:42:45,944 [INFO] Update id=508460134 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:42:48,206 [INFO] Update id=508460135 is handled. Duration 108 ms by bot id=7254443093
+2025-01-21 00:42:49,841 [INFO] Update id=508460136 is handled. Duration 77 ms by bot id=7254443093
+2025-01-21 00:42:51,266 [INFO] Update id=508460137 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:42:52,530 [INFO] Update id=508460138 is handled. Duration 77 ms by bot id=7254443093
+2025-01-21 00:42:54,038 [INFO] Update id=508460139 is handled. Duration 47 ms by bot id=7254443093
+2025-01-21 00:42:56,266 [INFO] Update id=508460140 is handled. Duration 63 ms by bot id=7254443093
+2025-01-21 00:43:03,110 [INFO] Update id=508460141 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:43:05,780 [INFO] Update id=508460142 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:43:10,456 [INFO] Update id=508460143 is handled. Duration 61 ms by bot id=7254443093
+2025-01-21 00:43:12,377 [INFO] Update id=508460144 is handled. Duration 108 ms by bot id=7254443093
+2025-01-21 00:43:33,364 [INFO] Polling stopped
+2025-01-21 00:43:33,621 [INFO] Polling stopped for bot @just_test_serb_bot id=7254443093 - 'test_serb'
+2025-01-21 00:43:33,622 [INFO] Bot is turned off

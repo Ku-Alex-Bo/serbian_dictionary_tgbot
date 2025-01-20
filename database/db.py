@@ -74,7 +74,6 @@ class WordsManager:
             ''', (new_serbian, new_russian, new_category, word_id))
             conn.commit()
 
-
 class UsersManager():
     def __init__(self, db_path=DB_PATH) -> None:
         self.db_path = db_path
@@ -137,5 +136,50 @@ class UsersManager():
             data = cursor.fetchone()
             print(data)
 
+class GrammarManager():
+    def __init__(self, db_path=DB_PATH) -> None:
+        self.db_path = db_path
+        self._create_table()
+
+    def _connect(self) -> None:
+        """Подключение к базе данных"""
+        return sqlite3.connect(self.db_path)
+
+    def _create_table(self) -> None:
+        """Создание таблицы, если ее еще нет."""
+        with self._connect() as conn:
+            cursor = conn.cursor()
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS grammar (
+                    id INTEGER PRIMARY KEY,
+                    name TEXT NOT NULL,
+                    desc TEXT DEFAULT NULL,
+                    image TEXT DEFAULT NULL,
+                    file TEXT DEFAULT NULL
+                )
+            ''')
+            conn.commit()
+
+    def get_data_by_name(self, name: str) -> dict[str, str]:
+        with self._connect() as conn:
+            cursor = conn.cursor()
+            keys = ["name", "desc", "image", "file"]
+            query = f"SELECT {', '.join(keys)} FROM grammar WHERE name=?"
+            cursor.execute(query, (name,))
+            data = cursor.fetchone()
+            if data:
+                return {key: value for key, value in zip(keys, data)}
+            return None
+
+    def get_all_names(self) -> tuple[str]:
+        with self._connect() as conn:
+            cursor = conn.cursor()
+            query = f"SELECT name FROM grammar"
+            cursor.execute(query)
+            data = cursor.fetchone()
+            return data
+
 wm = WordsManager()
 um = UsersManager()
+gm = GrammarManager()
+print(gm.get_all_names())

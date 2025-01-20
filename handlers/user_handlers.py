@@ -1,16 +1,18 @@
 from aiogram import Router, F
 from aiogram.filters import Command, CommandStart, StateFilter
-from aiogram.types import Message, CallbackQuery, InputMediaPhoto, FSInputFile
+from aiogram.types import Message, CallbackQuery, FSInputFile
 from aiogram.fsm.state import default_state, State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.exceptions import TelegramBadRequest
 from lexicon.lexicon_ru import LEXICON_RU
 from lexicon import tables as t
-from database.db import um, wm
+from database.db import um, wm, gm
 from states.states import MainStates
 from keyboards import keyboards as kb
 from services import services as f
+import config as conf
 import random
+import os
 
 # Инициализируем роутер уровня модуля
 router = Router()
@@ -38,7 +40,7 @@ async def process_help_command(message: Message):
 @router.message(F.text == "Граматика")
 async def cmd_start_gramar(message: Message, state: FSMContext):
     """Изучение граматики"""
-    keyboard = kb.get_grammar_keyboard(t.rules_categories)
+    keyboard = kb.get_grammar_keyboard(gm.get_all_names())
     await message.answer("Выберите правило: ", reply_markup=keyboard.as_markup())
     await state.set_state(MainStates.select_grammar)
 
@@ -156,6 +158,23 @@ async def show_results(message: Message, state: FSMContext) -> None:
 #Обработка в разделе граматика
 @router.callback_query(F.data.startswith("rule_"))
 async def select_category(callback: CallbackQuery, state: FSMContext):
+    name = callback.data.split("_")[1]
+    rule = gm.get_data_by_name(name)
+    desc = rule["desc"]
+    if desc:
+        await callback.message.answer(desc)
+    if rule["image"]:
+        image_path = conf.get_image_path(folder="grammar", name=rule["image"])
+        await callback.message.answer_photo(FSInputFile(image_path))
+    if rule["file"]:
+        pass
 
-    rule = callback.data.split("_")[1]
-    await callback.message.edit_text(text=f"<pre>{t.rules_categories[rule][1]}</pre>", parse_mode="HTML")
+@router.callback_query(F.data.startswith("page_"))
+async def process_pagination(callback_query: CallbackQuery):
+    # Извлекаем номер страницы из callback_data
+    page_number = int(callback_query.data.split('_')[1])
+    categories = wm.get_categories()
+    keyboard = kb.get_categories_keyboard(categories, page_number)
+
+    # Ответ на callback (перезагружаем клавиатуру с новым набором категорий)
+    await callback_query.message.edit_text("Выберите категорию:", reply_markup=keyboard.as_markup())
