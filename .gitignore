@@ -1,8 +1,12 @@
-# Python
+# Python bytecode
 __pycache__/
+
+# SQLite databases
 *.sqlite3
 
-# Environments
-.env
+# Logs
 logs/bot.log
+
+# Virtual environment
 venv/
+.env
