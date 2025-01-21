@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.sqlite3
+logs/bot.log
 
 # Environments
 .env
