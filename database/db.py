@@ -176,10 +176,9 @@ class GrammarManager():
             cursor = conn.cursor()
             query = f"SELECT name FROM grammar"
             cursor.execute(query)
-            data = cursor.fetchone()
+            data = map(lambda x: x[0], cursor.fetchall())
             return data
 
 wm = WordsManager()
 um = UsersManager()
 gm = GrammarManager()
-print(gm.get_all_names())
